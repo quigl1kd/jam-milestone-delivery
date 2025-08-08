@@ -54,3 +54,5 @@ Test Application
 
 
 ## Additional Information
+
+I have read and hereby sign the JAM Prize Terms and Conditions.
